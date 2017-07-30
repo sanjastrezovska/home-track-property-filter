@@ -70,6 +70,6 @@ var server = app.listen(3000, function () {
 
 var port = process.env.PORT || 8000
 
-server.listen(port, function() {
+var server = app.listen(port, function () {
     console.log("App is running on port " + port);
 });
