@@ -1,14 +1,14 @@
 {
-  "response": [
-    {
-      "concataddress": "28 Donington Ave Georges Hall NSW 2198",
-      "type": "htv",
-      "workflow": "completed"
-    },
-    {
-      "concataddress": "25 Mary St Brisbane QLD 4000",
-      "type": "htv",
-      "workflow": "completed"
-    }
-  ]
+    "response": [
+        {
+            "concataddress": "Level 6 146 Arthur Street North Sydney NSW 2060",
+            "type": "htv",
+            "workflow": "completed"
+        },
+        {
+            "concataddress": "Level 28 360 Elizabeth St Melbourne VIC 3000",
+            "type": "htv",
+            "workflow": "completed"
+        }
+    ]
 }
