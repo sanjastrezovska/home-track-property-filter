@@ -62,3 +62,14 @@ app.post('/properties/completed/htv', function (req, res) {
     }
 });
 
+/* local
+var server = app.listen(3000, function () {
+    console.log("Listening on port %s...", server.address().port);
+});
+*/
+
+var port = process.env.PORT || 8000
+
+server.listen(port, function() {
+    console.log("App is running on port " + port);
+});
